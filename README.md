@@ -1,26 +1,212 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)
-
 <h1 align="center">Hi 👋, I'm Rohit Singh</h1>
-<h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag23goel&label=Profile%20views&color=0e75b6&style=flat" alt="anurag23goel" /> </p>
+<h3 align="center">
+Full Stack Developer | MERN Stack | Node.js | TypeScript
+</h3>
 
-- 🌱 I’m currently learning *Next.JS, TypeScript, DevOps, Cloud, AWS*
-
-- 👨‍💻 All of my projects are available at (https://github.com/SinghRohiitt?tab=repositories))
-
-- 💬 Ask me about *Web Development, Data Structures & Algorithms*
-
-- 📫 How to reach me *singhrohit004008@gmail.com*
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rohit-singh-353356284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag23goel" height="30" width="40" /></a>
-<!-- <a href="https://instagram.com/@anurag23goel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@anurag23goel" height="30" width="40" /></a> -->
+<p align="center">
+  <a href="https://github.com/SinghRohiitt">
+    <img src="https://komarev.com/ghpvc/?username=SinghRohiitt&label=Profile%20Views&color=0e75b6&style=flat" alt="Rohit Singh profile views" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SinghRohiitt&show_icons=true&locale=en&layout=compact" alt="SinghRohiitt" /></p>
+<p align="center">
+  <a href="https://github.com/SinghRohiitt">
+    <img src="https://img.shields.io/github/followers/SinghRohiitt?label=Followers&style=flat" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/SinghRohiitt?tab=repositories">
+    <img src="https://img.shields.io/github/stars/SinghRohiitt?affiliations=OWNER&style=flat&label=Stars" alt="GitHub stars" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SinghRohiitt&show_icons=true&locale=en" alt="SinghRohiitt" /></p>
+---
+
+## 👨‍💻 About Me
+
+I'm a **Full Stack Developer with 1+ year of professional experience**, focused on building scalable and user-friendly web applications using modern JavaScript technologies.
+
+I work primarily with the **MERN stack**, TypeScript and PostgreSQL, with hands-on experience in authentication, REST APIs, payment integrations, cloud storage and application deployment.
+
+* 🔭 Currently working on **Full Stack Web Applications**
+* 🌱 Currently improving my skills in **System Design, AWS, DevOps and Scalable Backend Architecture**
+* 💻 Experienced with **React.js, Next.js, Node.js, Express.js and TypeScript**
+* 🗄️ Experienced with **MongoDB, PostgreSQL and Prisma ORM**
+* 🔐 Worked with **JWT authentication, OTP verification and role-based access control**
+* ☁️ Hands-on experience with **AWS S3, Docker, CI/CD and Nginx**
+* 💳 Integrated services including **Razorpay, Twilio, NodeMailer and Google Maps API**
+* 📍 Based in **Gurugram, India**
+* 📫 Reach me at **[singhrohit004008@gmail.com](mailto:singhrohit004008@gmail.com)**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions" />
+</p>
+
+### Tools & Services
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏢 Platform — Task Management System
+
+A full-stack task and project management application designed to manage projects, users and tasks with role-based access control.
+
+**Tech Stack:** React.js · Node.js · Express.js · PostgreSQL · Prisma · Redux · JWT
+
+**Key Features**
+
+* 🔐 JWT-based authentication
+* 👥 Role-based access control
+* 📁 Project creation and management
+* 👤 Project member assignment
+* ✅ Task management
+* 🔎 Search and filtering
+* 📊 Dashboard-based project management
+* 🗄️ PostgreSQL database with Prisma ORM
+* ✔️ API validation
+
+🔗 **[View Repository](https://github.com/SinghRohiitt/platform-backend)**
+
+---
+
+### 🏠 RentDuniya — Real Estate Platform
+
+A real-world real estate platform for property listing and management, including user-facing applications and administrative dashboards.
+
+**Tech Stack:** React.js · Node.js · Express.js · MongoDB · Redux · Tailwind CSS · AWS
+
+**Key Features**
+
+* 🏠 Property listing and management
+* 🔐 JWT authentication
+* 📱 OTP authentication using Twilio
+* 💳 Razorpay payment integration
+* 📸 Image upload pipeline using Multer + AWS S3
+* 📧 Email communication using NodeMailer
+* 📍 Google Maps integration
+* 👨‍💼 Admin dashboard
+* ☁️ AWS-based deployment
+* 🔄 Separate frontend and backend deployment
+
+---
+
+### 🏢 Propcodes — TypeScript MERN Application
+
+A TypeScript-based MERN application focused on real estate and property management.
+
+**Tech Stack:** TypeScript · React.js · Node.js · Express.js · MongoDB
+
+**Highlights**
+
+* ⚡ TypeScript-based development
+* 🔐 Authentication and authorization
+* 🏠 Property management
+* 🔌 RESTful APIs
+* 📱 Responsive frontend
+* 🧩 Modular application architecture
+
+---
+
+## 💼 Professional Experience
+
+### Full Stack Developer
+
+**RentDuniya / Propcodes**
+*September 2024 – Present*
+
+Working across frontend and backend systems to build and maintain real-world web applications.
+
+**Responsibilities & Contributions**
+
+* Developed responsive interfaces using **React.js, Next.js and Tailwind CSS**
+* Built backend services and REST APIs using **Node.js and Express.js**
+* Worked with **MongoDB and PostgreSQL** databases
+* Implemented authentication using **JWT and OTP verification**
+* Integrated **Razorpay** for payment workflows
+* Implemented image upload and storage using **Multer and AWS S3**
+* Integrated **Google Maps API** for location-based functionality
+* Built administrative dashboards for application management
+* Worked with **TypeScript** on Propcodes
+* Worked with deployment and infrastructure involving **AWS, Docker, Nginx and CI/CD**
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SinghRohiitt&show_icons=true&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinghRohiitt&layout=compact&hide_border=true" height="170" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SinghRohiitt&hide_border=true" alt="Rohit Singh GitHub Activity Graph" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Node.js
+* System Design
+* Scalable Backend Architecture
+* AWS & Cloud Architecture
+* Docker & CI/CD
+* Data Structures & Algorithms
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rohit-singh-353356284/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
+  &nbsp;
+  <a href="mailto:singhrohit004008@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>Building scalable applications, learning continuously and solving real-world problems.</b>
+</p>
