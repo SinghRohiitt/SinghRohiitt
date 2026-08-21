@@ -162,24 +162,7 @@ Working across frontend and backend systems to build and maintain real-world web
 * Built administrative dashboards for application management
 * Worked with **TypeScript** on Propcodes
 * Worked with deployment and infrastructure involving **AWS, Docker, Nginx and CI/CD**
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SinghRohiitt&show_icons=true&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinghRohiitt&layout=compact&hide_border=true" height="170" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SinghRohiitt&hide_border=true" alt="Rohit Singh GitHub Activity Graph" />
-</p>
-
+* 
 ---
 
 ## 🌱 Currently Learning
